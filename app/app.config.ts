@@ -10,7 +10,7 @@ export default defineAppConfig({
     }
   },
   seo: {
-    siteName: 'Nuxt UI Pro - Docs template'
+    siteName: 'Christian Dogmatics'
   },
   header: {
     logo: {
@@ -28,13 +28,13 @@ export default defineAppConfig({
     }]
   },
   footer: {
-    credits: 'Copyright © 2023',
+    credits: 'Made by Kyrie Eleison',
     colorMode: false,
     links: [{
       'icon': 'i-simple-icons-nuxtdotjs',
-      'to': 'https://nuxt.com',
+      'to': 'https://github.com/LutherApp',
       'target': '_blank',
-      'aria-label': 'Nuxt Website'
+      'aria-label': 'LutherApp on GitHub'
     }, {
       'icon': 'i-simple-icons-discord',
       'to': 'https://discord.com/invite/ps2h6QT',
@@ -47,7 +47,7 @@ export default defineAppConfig({
       'aria-label': 'Nuxt on X'
     }, {
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt/ui',
+      'to': 'https://github.com/LutherApp/Christian-Dogmatics',
       'target': '_blank',
       'aria-label': 'Nuxt UI on GitHub'
     }]
@@ -55,22 +55,22 @@ export default defineAppConfig({
   toc: {
     title: 'Table of Contents',
     bottom: {
-      title: 'Community',
-      edit: 'https://github.com/nuxt-ui-pro/docs/edit/main/content',
+      title: 'Big screen menu',
+      edit: 'https://github.com/LutherApp/Christian-Dogmatics/content',
       links: [{
+        icon: 'i-simple-icons-nuxtdotjs',
+        label: 'Report issue',
+        to: 'https://github.com/LutherApp/Christian-Dogmatics/issues',
+        target: '_blank'
+      }, {
         icon: 'i-heroicons-star',
-        label: 'Star on GitHub',
-        to: 'https://github.com/nuxt/ui',
+        label: 'Discussions',
+        to: 'https://github.com/LutherApp/Christian-Dogmatics/discussions',
         target: '_blank'
       }, {
         icon: 'i-heroicons-book-open',
-        label: 'Nuxt UI Pro docs',
-        to: 'https://ui.nuxt.com/pro/guide',
-        target: '_blank'
-      }, {
-        icon: 'i-simple-icons-nuxtdotjs',
-        label: 'Purchase a license',
-        to: 'https://ui.nuxt.com/pro/purchase',
+        label: 'Download files',
+        to: 'https://github.com/LutherApp/Christian-Dogmatics',
         target: '_blank'
       }]
     }
