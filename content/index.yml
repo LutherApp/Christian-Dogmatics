@@ -19,7 +19,7 @@ hero:
       icon: i-simple-icons-github
       size: lg
       color: gray
-      to: https://github.com/LutherApp/Christian-Dogmatics/content
+      to: https://github.com/LutherApp/Christian-Dogmatics/tree/main/content
       target: _blank
   code: |
     ```bash [Pray before reading!]

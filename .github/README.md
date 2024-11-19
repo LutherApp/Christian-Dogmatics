@@ -4,6 +4,4 @@ Christian Dogmatics of Dr. Francis Pieper's Dogmatic work was translated and arr
 ## Collaborate and contribute!
 We will encourage you to collaborate on the content of this book. You can contribute in the same way as collaborators on GitHub Docs[^1]. Read about it [here](https://docs.github.com/en/contributing/collaborating-on-github-docs/about-contributing-to-github-docs).
 
-Read more about contributing in LutherApp [here](https://github.com/LutherApp/Christian-Dogmatics/blob/main/CONTRIBUTING.md).
-
 [^1]: The GitHub Docs, like this content, is written in markdown (md) format.

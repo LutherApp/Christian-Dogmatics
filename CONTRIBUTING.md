@@ -2,6 +2,6 @@
 
 Christian Dogmatics would not be what it is today without its community of maintainers, contributors and users.
 
-Want to contribute to Christian Dogmatics? Read the **[Contribution Guide](https://nuxt.com/docs/community/contribution)** for the Nuxt Community and use this to contribute on this book.
+Want to contribute to Christian Dogmatics? 
 
-Read more about contributing for LutherApp [here](https://github.com/LutherApp/Christian-Dogmatics/blob/main/CONTRIBUTING.md).
+Read the **[Contribution Guide](https://nuxt.com/docs/community/contribution)** for the Nuxt Community and use this to contribute on this book.
