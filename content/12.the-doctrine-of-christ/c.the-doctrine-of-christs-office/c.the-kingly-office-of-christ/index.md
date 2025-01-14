@@ -23,7 +23,7 @@ All true believers, who in this life were subject to Christ in His Kingdom of Gr
 THE DOCTRINE OF CHRIST. 
 
 
-dom of Grace in perfection, Acts 7, 55. 56; 1 Pet. 5, 4; 1 John 3, 2. Then the adherents of the Church Militant (membra ecclesiae mili - tantis), Eom. 8,17, will be members of the Church Triumphant (membra ecclesiae triumphantis), Rom. 5, 2; John 17, 24. To point out the inestimable blessings of Christ’s Kingdom of Grace and the ineffable bliss of His Kingdom of Glory is the real burden of Christian preaching, the purpose of which is not only to make sinners partakers of eternal life, but also to fill them with an ardent longing for heaven, 1 Cor. 1,7; Rom. 8, 23; Titus 2,13; 2 Pet. 3,13; Phil. 3, 20. 
+dom of Grace in perfection, Acts 7, 55. 56; 1 Pet. 5, 4; 1 John 3, 2. Then the adherents of the Church Militant (membra ecclesiae mili - tantis), Rom. 8,17, will be members of the Church Triumphant (membra ecclesiae triumphantis), Rom. 5, 2; John 17, 24. To point out the inestimable blessings of Christ’s Kingdom of Grace and the ineffable bliss of His Kingdom of Glory is the real burden of Christian preaching, the purpose of which is not only to make sinners partakers of eternal life, but also to fill them with an ardent longing for heaven, 1 Cor. 1,7; Rom. 8, 23; Titus 2,13; 2 Pet. 3,13; Phil. 3, 20. 
 
 In this world the Kingdom of Power serves the Kingdom of Grace, Matt. 28,18; Rom. 8, 28; for in both kingdoms the same Lord governs all things to His glory, Eph. 1, 20—23, with the same almighty power, Eph. 1, 19; 1 Pet. 1, 5, sustaining the present world for the sake of His elect, Matt. 24, 22; 2 Pet. 3, 9, and protecting His Church Militant against all attacks of the gates of hell. Matt. 16,18. 
 
