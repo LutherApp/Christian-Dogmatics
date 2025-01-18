@@ -28,11 +28,11 @@ hero:
 features:
   title: 'Content'
   links:
-    - label: 'Other Lutherans books'
+    - label: 'Other Lutheran books'
       icon: 'i-simple-icons-nuxtdotjs'
-      trailingIcon: 'i-heroicons-arrow-right-20-solid'
+      trailingIcon: 'i-heroicons-book-open-solid'
       color: 'gray'
-      to: 'https://github.com/LutherApp'
+      to: 'https://luther-books.vercel.app'
       target: '_blank'
       size: lg
   items:
