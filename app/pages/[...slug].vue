@@ -51,7 +51,10 @@ const links = computed(() => [toc?.bottom?.edit && {
       :headline="headline"
     />
 
-    <UPageBody prose>
+    <UPageBody
+      prose
+      class="text-xl"
+    >
       <ContentRenderer
         v-if="page.body"
         :value="page"
