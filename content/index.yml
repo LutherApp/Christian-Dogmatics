@@ -3,7 +3,7 @@ description: Christian Dogmatics of Dr. Francis Pieper Dogmatic Works, that was 
 navigation: false
 hero:
   title: 'Christian Dogmatics'
-  description: 'Christian Dogmatics of Dr. Francis Pieper Dogmatic Works, that was translated by TH. D. John Theodore Mueller in 1834, is published here in MD format.'
+  description: 'Christian Dogmatics of Mueller (1834), is deployed and published on "Christian-Dogmatics.vercel.app" for the first time in a format that is highly readable on mobile devices.'
   orientation: horizontal
   headline:
     label: An app from @LutherApp
@@ -23,12 +23,12 @@ hero:
       target: _blank
   code: |
     ```bash [Pray before reading!]
-    God! Open my eyes and heart for this book about the truth!
+    God! Open my eyes and heart for the truth in this book! In Jesu name we pray!
     ```
 features:
   title: 'Content'
   links:
-    - label: 'Other Lutheran books'
+    - label: 'Other Luther Books'
       icon: 'i-simple-icons-nuxtdotjs'
       trailingIcon: 'i-heroicons-book-open-solid'
       color: 'gray'
